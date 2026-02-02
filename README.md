@@ -18,3 +18,10 @@ cyber attacks.
 - Basic email header analysis
 - Web browser link inspection
 - MS Word (for report creation)
+## Project Structure
+FUTURE_CS_02/
+├── samples/
+│   └── phishing_email_1.txt
+├── screenshots/
+├── report/
+└── README.md
