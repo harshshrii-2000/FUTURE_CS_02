@@ -1,0 +1,13 @@
+Subject: Urgent – Verify Your Account Immediately
+
+Dear User,
+
+We have detected unusual activity in your account.
+To avoid suspension, please verify your account immediately by clicking the link below:
+
+http://secure-verification-account[.]com/login
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Regards,
+Security Team 
